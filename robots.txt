@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohngahpuac.ikrpg.info/sitemap.xml
